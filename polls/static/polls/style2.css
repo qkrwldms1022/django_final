@@ -1,0 +1,13 @@
+ body{
+    background: white url("images/보보.jpg")no-repeat;
+    background-position: bottom;
+    background-color: #e1cdb5;
+    background-size: 60%;
+    height: 700px;
+
+}
+
+.returnBtn{
+    color: #ef6e72;
+    text-decoration: none;
+}
